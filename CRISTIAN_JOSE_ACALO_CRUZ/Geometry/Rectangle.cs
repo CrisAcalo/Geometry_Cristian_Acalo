@@ -1,12 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace Geometry
 {
     class Rectangle : IShape
     {
-        public double Length { get; set; } //internal private variable, getter, setter
+        public double Length { get; set; }
 
         public double Width { get; set; }
 
