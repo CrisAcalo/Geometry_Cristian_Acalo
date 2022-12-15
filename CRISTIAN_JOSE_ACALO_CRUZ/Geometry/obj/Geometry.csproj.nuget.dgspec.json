@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USUARIO\\source\\repos\\Geometry\\Geometry\\Geometry.csproj": {}
+    "C:\\Users\\USUARIO\\Desktop\\Uni\\II\\EXPERIMENTO_POO\\intership\\Geometry_Cristian_Acalo\\CRISTIAN_JOSE_ACALO_CRUZ\\Geometry\\Geometry.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USUARIO\\source\\repos\\Geometry\\Geometry\\Geometry.csproj": {
+    "C:\\Users\\USUARIO\\Desktop\\Uni\\II\\EXPERIMENTO_POO\\intership\\Geometry_Cristian_Acalo\\CRISTIAN_JOSE_ACALO_CRUZ\\Geometry\\Geometry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\Geometry\\Geometry\\Geometry.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\Uni\\II\\EXPERIMENTO_POO\\intership\\Geometry_Cristian_Acalo\\CRISTIAN_JOSE_ACALO_CRUZ\\Geometry\\Geometry.csproj",
         "projectName": "Geometry",
-        "projectPath": "C:\\Users\\USUARIO\\source\\repos\\Geometry\\Geometry\\Geometry.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\Desktop\\Uni\\II\\EXPERIMENTO_POO\\intership\\Geometry_Cristian_Acalo\\CRISTIAN_JOSE_ACALO_CRUZ\\Geometry\\Geometry.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\source\\repos\\Geometry\\Geometry\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\Desktop\\Uni\\II\\EXPERIMENTO_POO\\intership\\Geometry_Cristian_Acalo\\CRISTIAN_JOSE_ACALO_CRUZ\\Geometry\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
